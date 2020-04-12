@@ -1,0 +1,7 @@
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\bin\Debug\Simple Proxy Checker.exe.config
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\bin\Debug\Simple Proxy Checker.exe
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\bin\Debug\Simple Proxy Checker.pdb
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\obj\Debug\Simple Proxy Checker.csprojAssemblyReference.cache
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\obj\Debug\Simple Proxy Checker.csproj.CoreCompileInputs.cache
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\obj\Debug\Simple Proxy Checker.exe
+C:\Users\Mor\source\repos\Simple Proxy Checker\Simple Proxy Checker\obj\Debug\Simple Proxy Checker.pdb
